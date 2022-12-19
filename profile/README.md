@@ -1,6 +1,6 @@
 ## Welcome to Quantum Radio Astronomy
 
-
+This organization regroups the efforts of the Netherlands eScience Center and ASTRON to integrate quantum computing in the design of radio telescopes. 
 
 <!--
 
